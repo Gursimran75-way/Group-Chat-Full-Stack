@@ -7,6 +7,7 @@ This is the frontend for the Group Chat application built using **React.js** and
 ### **User Authentication**
 - Sign-up & Login functionality
 - JWT-based authentication
+- Refresh-token based authentication
 
 ### **Group Management**
 - Create Public and Private Groups
